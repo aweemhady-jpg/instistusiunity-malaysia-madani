@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="6lr=rHwS,wV!|D01:q]4">mySprite</variable></variables><block type="pxt-on-start" id="h1-pH|?x?.@KB-84;,)^" x="0" y="0"><statement name="HANDLER"><block type="spritesetimage" id="4Cn?SLfh?Q=lQ0|(YzHO"><value name="sprite"><block type="variables_get" id="@G^-R9?aS1k*gA5M:PfK"><field name="VAR" id="6lr=rHwS,wV!|D01:q]4">mySprite</field></block></value><value name="img"><shadow type="screen_image_picker" id="#}l7uPsx^bs=:Zmie4%."><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value></block></statement></block></xml>
